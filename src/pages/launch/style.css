@@ -1,0 +1,34 @@
+.stimulator{
+  background-image: url(/public/images/stars.jpeg);
+  background-position: center;
+  height: 1000vh;
+}
+
+.jupiter{
+  position: absolute;
+  top: 60vh;
+  left: 25vw;
+  width: 50vw;
+}
+
+.earth{
+  position: absolute;
+  top: 960vh;
+  left: 25vw;
+  width: 50vw;
+}
+
+.launch{
+  height: 30vh;
+  position: absolute;
+  left:0;
+  top: 940vh;
+}
+
+.rocket{
+  width: 50vw;
+  position: fixed;
+  bottom: 30vh;
+  left: 25vw;
+  z-index: 10;
+}

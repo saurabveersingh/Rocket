@@ -1,0 +1,40 @@
+.App{
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App-header{
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.App-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App-label{
+  display: block;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.App-input{
+  padding: 7px;
+}
+
+.App-button{
+  margin: 15px;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+}
